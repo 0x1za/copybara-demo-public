@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, Copybara!");
+    println!("Hello, Copybara! 🎉");
 }
